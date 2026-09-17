@@ -1,9 +1,10 @@
-*.ppt
-*.pptx
-*.pdf
-*.docx
-*.xlsx
-*.zip
+# Material de clase del profesor (no se publica por derechos de autor)
+Material de Clase/
+Recursos/PORT NUMBERS.txt
+Recursos/*.xlsx
+
+# Formatos de ejemplo/plantillas que no son entregas propias
 *.pkt
 *.PPT
-PORT NUMBERS.txt
+
+# Metadatos de herramientas locales
